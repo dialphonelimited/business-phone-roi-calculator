@@ -81,7 +81,7 @@ In most cases, the break-even period is 3-6 months even when writing off existin
 4. Plug numbers into the TCO model above
 5. Request quotes from 2-3 VoIP providers for comparison
 
-For a personalized analysis, [VestaCall](https://vestacall.com) offers free bill analysis â€” send your current invoices and receive a detailed cost comparison within 48 hours.
+For a personalized analysis, [DialPhone](https://dialphone.com) offers free bill analysis — send your current invoices and receive a detailed cost comparison within 48 hours.
 
 ---
 
